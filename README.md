@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
+<h3 align="center">Interested in Machine Learning and Back-end</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedahmed412000&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedahmed412000" />
+		   <img src="https://badges.pufler.dev/repos/mohamedahmed412000" alt="mohamedahmed412000" />
+		   <img src="https://img.shields.io/github/followers/mohamedahmed412000?label=Followers" alt="mohamedahmed412000" />
+</p>
 
 <!--
 **MohamedAhmed412000/MohamedAhmed412000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
