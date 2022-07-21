@@ -32,6 +32,7 @@
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
 <a href="https://www.w3.org/Style/CSS/" title="CSS3"><img src="https://img.shields.io/badge/css3-%23157122B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
 <a href="https://www.javascript.com/" title="JS"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS"></a>
+
 <a href="https://www.djangoproject.com/" title="Django"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
 <a href="https://scikit-learn.org/" title="Scikit-learn"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
 <a href="https://opencv.org/" title="OpenCV"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
@@ -42,6 +43,9 @@
 <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></a>
 
+<br>
+
+
 ## 📊 Github Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedahmed412000&theme=tokyonight_duo" alt="mohamedahmed412000" /></p>
   <br/>
@@ -50,24 +54,21 @@
 	    <img alt="mohamedahmed412000's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohamedahmed412000&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedahmed412000&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="mohamedahmed412000" height="230px"/>
 <br/>
+<!--
+<br>
 
-----
-<summary><b>⚡ Git profile Trophies</b></summary>
+## ⚡ Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedahmed412000&layout=compact&theme=algolia" alt="mohamed Ahmed" /></a> </p>
+-->
 
-----
-
+<!--
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/mohamedahmed412000"><img alt="mohamed Ahmed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mohamedahmed412000&custom_title=Mohamed%20Ahmed%27s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
-
 <br/>
-
-
-
+-->
 
 <!--
 **MohamedAhmed412000/MohamedAhmed412000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
