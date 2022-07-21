@@ -45,7 +45,7 @@
 
 <br>
 
-
+<!--
 ## 📊 Github Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedahmed412000&theme=tokyonight_duo" alt="mohamedahmed412000" /></p>
   <br/>
@@ -54,7 +54,7 @@
 	    <img alt="mohamedahmed412000's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohamedahmed412000&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedahmed412000&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="mohamedahmed412000" height="230px"/>
 <br/>
-<!--
+
 <br>
 
 ## ⚡ Git profile Trophies
