@@ -11,7 +11,7 @@
 - :school: I am graduated from computer and systems department - Faculty of Engineering - Ain Shams University 2022
 - 🌱 I’m currently learning Devops and advanced topics in web developement 
 - 📫 How to reach me <a href="https://mail.google.com/mail/u/?authuser=mohamed.ahmed04012000@gmail.com" target="_blank">**Gmail**</a>, <a href="https://www.linkedin.com/in/mohamed-ahmed-412000" target="_blank">**LinkedIn**</a>
-- :thinking: I’m currently open for: `An Intern` or a new `part time job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1sTL_KyGzswv8WlAXUhdSd3Pds9EV5spT/view?usp=sharing).
+- :thinking: I’m currently open for: `full time job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1l0Y2HLyxjnv0FbneYoRDmPogFMpjR_yU/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
