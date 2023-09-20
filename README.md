@@ -8,8 +8,8 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- :school: I am graduated from computer and systems department - Faculty of Engineering - Ain Shams University 2022
-- 🌱 I’m currently learning Devops and advanced topics in web developement 
+- :school: I graduated from computer and systems department - Faculty of Engineering - Ain Shams University 2022
+- 🌱 I’m currently learning about cloud computing and advanced topics in web developement 
 - :thinking: I’m currently open for: `full time job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1l0Y2HLyxjnv0FbneYoRDmPogFMpjR_yU/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
