@@ -10,7 +10,6 @@
 
 - :school: I am graduated from computer and systems department - Faculty of Engineering - Ain Shams University 2022
 - 🌱 I’m currently learning Devops and advanced topics in web developement 
-- 📫 How to reach me <a href="https://mail.google.com/mail/u/?authuser=mohamed.ahmed04012000@gmail.com" target="_blank">**Gmail**</a>, <a href="https://www.linkedin.com/in/mohamed-ahmed-412000" target="_blank">**LinkedIn**</a>
 - :thinking: I’m currently open for: `full time job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1l0Y2HLyxjnv0FbneYoRDmPogFMpjR_yU/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
@@ -28,10 +27,8 @@
 <a href="https://www.cprogramming.com/" title="C"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
 <a href="https://cplusplus.com/" title="CPlusPlus"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="CPlusPlus"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
-<a href="https://www.r-project.org/" title="R"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"></a>
-<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-<a href="https://www.w3.org/Style/CSS/" title="CSS3"><img src="https://img.shields.io/badge/css3-%23157122B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
-<a href="https://www.javascript.com/" title="JS"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS"></a>
+<a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/java?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
+	
 
 <a href="https://www.djangoproject.com/" title="Django"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
 <a href="https://scikit-learn.org/" title="Scikit-learn"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
