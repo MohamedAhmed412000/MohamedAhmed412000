@@ -10,16 +10,16 @@
 
 - :school: I graduated from computer and systems department - Faculty of Engineering - Ain Shams University 2022
 - 🌱 I’m currently learning about cloud computing and advanced topics in web developement 
-- :thinking: I’m currently working on <a href="https://www.ejada.com/">Ejada Systems Ltd.</a> as Software engineer, this is [MY RESUME](https://drive.google.com/file/d/1l0Y2HLyxjnv0FbneYoRDmPogFMpjR_yU/view?usp=sharing).
+- :thinking: I’m currently working on <a href="https://www.ejada.com/" target="_blank">Ejada Systems Ltd.</a> as Software engineer, this is [MY RESUME](https://drive.google.com/file/d/1l0Y2HLyxjnv0FbneYoRDmPogFMpjR_yU/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
 
 ## 📩 Connect with me
 <p align="center">
-    <a href="mailto:mohamed.ahmed04012000@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100004504185185" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/mohamed-ahmed-412000/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+    <a href="mailto:mohamed.ahmed04012000@gmail.com" target="_blank" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100004504185185" target="_blank" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/mohamed-ahmed-412000/" target="_blank" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 </p>
 
 <!--
