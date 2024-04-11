@@ -10,7 +10,7 @@
 
 - :school: I graduated from computer and systems department - Faculty of Engineering - Ain Shams University 2022
 - 🌱 I’m currently learning about cloud computing and advanced topics in web developement 
-- :thinking: I’m currently open for: `full time job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1l0Y2HLyxjnv0FbneYoRDmPogFMpjR_yU/view?usp=sharing).
+- :thinking: I’m currently working on Ejada Systems Ltd. as Software engineer, this is [MY RESUME](https://drive.google.com/file/d/1l0Y2HLyxjnv0FbneYoRDmPogFMpjR_yU/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
